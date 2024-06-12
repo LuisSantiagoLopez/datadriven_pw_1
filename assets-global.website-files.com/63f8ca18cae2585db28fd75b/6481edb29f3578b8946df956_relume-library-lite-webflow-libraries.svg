@@ -1,0 +1,6 @@
+<svg width="48" height="48" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="48" height="48" fill="#FB5733"/>
+<rect width="13.8477" height="13.8477" rx="0.667358" transform="matrix(0.866025 0.5 -2.20305e-08 1 12.0073 17.0762)" fill="black" stroke="black" stroke-width="1.75755" stroke-linejoin="round"/>
+<rect width="13.8477" height="13.8477" rx="0.667358" transform="matrix(0.866025 -0.5 2.20305e-08 1 24.0001 24)" fill="white" stroke="black" stroke-width="1.75755" stroke-linejoin="round"/>
+<rect width="13.8477" height="13.8477" rx="0.667358" transform="matrix(0.866025 0.5 -0.866025 0.5 24.0001 10.1522)" fill="white" stroke="black" stroke-width="1.75755" stroke-linejoin="round"/>
+</svg>

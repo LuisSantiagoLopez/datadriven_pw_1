@@ -1,0 +1,18 @@
+<svg width="48" height="48" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="48" height="48" fill="url(#paint0_linear_5705_4041)"/>
+<rect width="8.57005" height="8.57005" rx="0.539399" transform="matrix(0.866025 0.5 -2.20305e-08 1 9.15625 26.1425)" stroke="white" stroke-width="1.0788"/>
+<rect width="8.57005" height="8.57005" rx="0.539399" transform="matrix(0.866025 -0.5 2.20305e-08 1 16.5781 30.4275)" stroke="white" stroke-width="1.0788"/>
+<rect width="8.57005" height="8.57005" rx="0.539399" transform="matrix(0.866025 -0.5 0.866025 0.5 9.15625 26.1425)" stroke="white" stroke-width="1.0788"/>
+<rect width="8.57005" height="8.57005" rx="0.539399" transform="matrix(0.866025 0.5 -2.20305e-08 1 24 26.1425)" stroke="white" stroke-width="1.0788"/>
+<rect width="8.57005" height="8.57005" rx="0.539399" transform="matrix(0.866025 -0.5 2.20305e-08 1 31.4219 30.4275)" stroke="white" stroke-width="1.0788"/>
+<rect width="8.57005" height="8.57005" rx="0.539399" transform="matrix(0.866025 -0.5 0.866025 0.5 24 26.1425)" stroke="white" stroke-width="1.0788"/>
+<rect width="8.57005" height="8.57005" rx="0.539399" transform="matrix(0.866025 0.5 -2.20305e-08 1 16.5781 13.2874)" stroke="white" stroke-width="1.0788"/>
+<rect width="8.57005" height="8.57005" rx="0.539399" transform="matrix(0.866025 -0.5 2.20305e-08 1 24 17.5724)" stroke="white" stroke-width="1.0788"/>
+<rect width="8.57005" height="8.57005" rx="0.539399" transform="matrix(0.866025 -0.5 0.866025 0.5 16.5781 13.2874)" stroke="white" stroke-width="1.0788"/>
+<defs>
+<linearGradient id="paint0_linear_5705_4041" x1="24" y1="0" x2="24" y2="48" gradientUnits="userSpaceOnUse">
+<stop stop-color="#69E2D9"/>
+<stop offset="1" stop-color="#4447D8"/>
+</linearGradient>
+</defs>
+</svg>

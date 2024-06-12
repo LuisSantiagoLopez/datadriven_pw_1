@@ -1,0 +1,8 @@
+https://brixagency.com/* https://brixagency.com https://brixagency.com/about https://brixagency.com/portfolio https://brixagency.com/services#web-design https://brixagency.com/contact -W -O "/Users/iancid/desktop/datadriven/b" -%v +*.png +*.gif +*.jpg +*.jpeg +*.bmp +*.mp4 +*.svg +*.woff2
+File generated automatically on Wed, 29 May 2024 10:03:55, do NOT edit
+
+To update a mirror, just launch httrack without any parameters
+The existing cache will be used (and modified)
+To have other options, retype all parameters and launch HTTrack
+To continue an interrupted mirror, just launch httrack without any parameters
+
